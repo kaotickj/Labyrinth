@@ -1,8 +1,11 @@
 [
 null,
-{"id":1,"battlerName":"jaida_paladin","characterIndex":0,"characterName":"jaida_paladin","classId":1,"equips":[5,1,6,5,11],"faceIndex":0,"faceName":"jaida_paladin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jaida","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"jaida_paladin","characterIndex":0,"characterName":"jaida_paladin","classId":1,"equips":[5,1,6,5,11],"faceIndex":0,"faceName":"jaida_paladin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jaida","nickname":"","note":"<Paladin Character: jaida_paladin 0>\n<Warrior Character: jaida 0>","profile":""},
 {"id":2,"battlerName":"llana","characterIndex":0,"characterName":"llana","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"llana","traits":[{"code":14,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Llana","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"kestria","characterIndex":0,"characterName":"kestria","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"kestria","traits":[],"initialLevel":1,"maxLevel":99,"name":"Loren","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"lathar","characterIndex":0,"characterName":"lathar","classId":4,"equips":[8,0,2,3,4],"faceIndex":0,"faceName":"lathar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lathar","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"teroth","characterIndex":0,"characterName":"teroth","classId":5,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"teroth","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teroth","nickname":"","note":"","profile":""}
+{"id":5,"battlerName":"teroth","characterIndex":0,"characterName":"teroth","classId":5,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"teroth","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teroth","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
