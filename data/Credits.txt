@@ -1,7 +1,7 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-<block:-1,-4,10,10,offbot,center,Labyrinth5>
+<block:-1,-4,10,10,offbot,center,Labyrinth2>
 
 And Jaida slew the Evil Elf;
 
@@ -11,10 +11,10 @@ He soon embraced the Evil Ways;
 
 And now is Master of The Maze ...
 </block>
-<block:-1,-2,10,10,offbot,center,Labyrinth>
+<block:-1,-2,10,10,offbot,r,Labyrinth>
 CREDITS
 
-\c[17]Engine
+\c[17]Game Engine
 Powered by Kaos
 
 \c[17]Designer
@@ -22,7 +22,9 @@ Kaotick Jay
 
 \c[17]Artwork
 Kaotick Jay
+</block>
 
+<block:-1,-2,10,10,offbot,center,Labyrinth5>
 \c[17]Cast:
    The Good Guys:
 
@@ -59,7 +61,7 @@ Ishmael
 Leviathan
 
 Introducing:
-Thalorin the Malefic as The Evil ELf of Lore
+Thalorin the Malefic as The Evil Elf of Lore
 
 \c[17]Music:
 Adrift Among Infinite Stars by Scott Buckley | www.scottbuckley.com.au
