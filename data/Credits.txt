@@ -11,7 +11,7 @@ He soon embraced the Evil Ways;
 
 And now is Master of The Maze ...
 </block>
-<block:-1,-2,10,10,offbot,r,Labyrinth>
+<block:-1,-2,10,10,offbot,center,Labyrinth>
 CREDITS
 
 \c[17]Game Engine
@@ -37,8 +37,15 @@ Captain \N[6]
 Minn
 Tobias
 Raina
+Kharla
+Sylas
+Lady Elowen
+Melita King
 Tor Endrafang
 
+	Special Guest:
+	
+Wolfgang Von Flügelspieler	
 
     The Bad Guys:
 
@@ -50,6 +57,12 @@ A colony of Bats
 An army of Imps
 A battalion of Demons
 Swarms of the Undead
+Crooked Cop 1
+Crooked Cop 2
+Crooked Cop 3
+Crooked Cop 4
+Crooked Cop 5
+Crooked Cop 6
 
 	Bosses:
 	
@@ -68,6 +81,45 @@ Adrift Among Infinite Stars by Scott Buckley | www.scottbuckley.com.au
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
+
+Medieval Chateau by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Medieval Loop One by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Medieval Fantasy by MaxKoMusic | https://maxkomusic.com/
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+Gates Of Glory by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Tavern Loop One by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Battle Of The Creek by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+##########################
+### MAYBE
+##########################
+Medieval Metal by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
 
  *Various Public Domain works of Beethoven were also used in 
  the piano player script.
