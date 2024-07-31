@@ -1,0 +1,14 @@
+<block:-1,-2,10,10,offbot,center,Labyrinth>
+Legend speaks of an Evil elf
+
+Who lives outside of time itself
+
+He is The Master of a Maze
+
+That makes a path called Evil Ways ...
+
+
+I am \N[1], The Righteous One
+
+I seek to slay this evil spawn ...
+</block>
