@@ -1,0 +1,19 @@
+<block:-1,-2,10,10,offbot,center,Labyrinth6>
+My journey lasts for six days more,
+Until my ship puts into shore.
+I step upon a barren land,
+Of withered trees and blackened sand.
+In this land of which bards once sang,
+Lives the Dwarf Lord Tor Endrafang.
+I first must find this Dwarven Lord,
+And win from him his magick sword.
+
+Of the sword, Dwarven Warriors sing,
+It's crosspiece forms a dragon's wings.
+In dragon's fire the sword was made,
+Runes of Power adorn the blade.
+The pomel is a dragon's head,
+With eyes that shine with rubies red.
+Upon the hilt was placed it's name,
+It once was known as Evil's Bane.
+</block>
